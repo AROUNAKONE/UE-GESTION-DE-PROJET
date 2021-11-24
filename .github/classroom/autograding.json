@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Check address and tokens",
+      "setup": "npm install --prefix lesson-1",
+      "run": "npm test --prefix lesson-1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
